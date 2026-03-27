@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.pinky {
+    background-color:rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color:rgb(0, 0, 255)
+}
+.biggy {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
